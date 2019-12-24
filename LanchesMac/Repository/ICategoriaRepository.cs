@@ -6,6 +6,5 @@ namespace LanchesMac.Repository
     public interface ICategoriaRepository
     {
         IEnumerable<Categoria> Categorias { get; }
-        //teste
     }
 }
